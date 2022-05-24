@@ -114,7 +114,7 @@ Uns ist bewusst, dass dies wenig sinnvoll ist, da man auch über die ID Personen
 
 ## 4. DDL-Skripte
 
-[Tabellen/Trigger](/DDL/Tabellen_Trigger erstellen.sql)
+[Tabellen/Trigger](/DDL/Tabellen_Trigger_erstellen.sql)
 
 
 ## 5. Testdaten
@@ -125,4 +125,4 @@ Uns ist bewusst, dass dies wenig sinnvoll ist, da man auch über die ID Personen
 
 ## 6. Beispielhafte Select Abfragen
 
-[Beispielhafte Abfragen](/DDL/Beispielhafte Abfragen.sql)
+[Beispielhafte Abfragen](/DDL/Beispielhafte_Abfragen.sql)
